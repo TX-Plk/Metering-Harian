@@ -1,0 +1,6 @@
+{
+  "name": "Daily Report Metering - MNC Group Broadcast Monitor",
+  "description": "Sistem digital Daily Report Metering multi-stasiun MNC Group untuk pencatatan parameter transmitter (RCTI, MNCTV, GTV, iNews), PLN, UPS, Genset, AC, dan Fiber Optic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
